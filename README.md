@@ -1,6 +1,6 @@
 # Computational_Social_Science_Lecture_R_Code
 
-This repo includes R code and materials from my Computational Social Science course at Rutgers University. The course offers theoretical discussion and hands-on training using R. It is a doctoral seminar offering a gentle introduction to computational methods both for people with some previous experience in coding, and for those who are just starting to learn. The course covers a variety of topics including introduction to R, analyzing survey data, using APIs, web scraping, network analysis, natural language processing, machine learning, online experiments, and ethics.
+This repo includes R code and materials from my Computational Social Science course at Rutgers University. The course includes theoretical discussion and hands-on training using R. It is a doctoral seminar offering a gentle introduction to computational methods both for people with some previous experience in coding, and for those who are just starting to learn. The course covers a variety of topics including introduction to R, analyzing survey data, using APIs, web scraping, network analysis, natural language processing, machine learning, online experiments, and ethics.
 
  The repository includes the syllabys, R code, and data accompanying my 2023 course lectures. 
 
